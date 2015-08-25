@@ -1,0 +1,61 @@
+body {
+  background-color: #4b6473;
+  background-image: url("http://img14.deviantart.net/d39d/i/2013/061/8/8/free_texture_glitter_ii_by_uckymush-d1qgh3i.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+img {
+ position: absolute;
+ width: 10vw;
+}
+
+#first {
+ top: 150px;
+ left: 45px;
+ width: 20vw;
+}
+
+#second {
+ top: 250px;
+ left: 450px;
+}
+
+#third {
+ top: 350px;
+ right: 20vw;
+}
+
+#fourth {
+ top: 350px;
+ left: 175px;
+}
+#fifth {
+  top: 50px;
+  left: 465px;
+}
+#sixth {
+  bottom: 275px;
+  left: 400px; 
+}
+#seventh{
+  bottom: 500px;
+  left: 100px; 
+}
+#eight {
+  bottom: 600px;
+  right: 700px;
+}
+#ninth {
+  top: 350px;
+  left: 500px;
+}
+#tenth {
+  center: 200px;
+  middle: 150px;
+}
+#eleventh {
+  top: 500px;
+  right: 100px;
+}
